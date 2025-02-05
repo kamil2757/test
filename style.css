@@ -7,4 +7,12 @@ body{
     width: 400px;
     height: 200px;
     background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    width: 300px;
+    color: #86aa5d;
 }
