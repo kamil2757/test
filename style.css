@@ -2,3 +2,9 @@ body{
     background-color: #86aa5d;
     color: white;
 }
+
+.block{
+    width: 400px;
+    height: 200px;
+    background-color: #ffffff;
+}
